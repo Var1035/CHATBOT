@@ -8,6 +8,7 @@ Thank You.
 # 🤖 AI Chatbot Interface
 
 A modern and visually appealing interface for interacting with AI agents using HTML, CSS, and JavaScript.
+![AI Bot interface](https://github.com/Var1035/CHATBOT/blob/main/WhatsApp%20Image%202025-06-11%20at%2022.03.02_f1f8cad6.jpg?raw=true)
 
 
 ## 🌟 Features
