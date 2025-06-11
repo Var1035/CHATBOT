@@ -9,6 +9,7 @@ Thank You.
 
 A modern and visually appealing interface for interacting with AI agents using HTML, CSS, and JavaScript.
 
+
 ## 🌟 Features
 - **Premium Plan Section**: Teases upcoming premium features.
 - **Talk with AI**: Voice-based interaction via `index2.html`.
